@@ -1,3 +1,5 @@
+// NOTA: El código es muy artesanal y está lejos de ser perfecto :)
+
 #include "WiFiEsp.h"
 #include <ArduinoJson.h>
 #include <Wire.h>  // Necesario para LiquidCrystal_I2C
